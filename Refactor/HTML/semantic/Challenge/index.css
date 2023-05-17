@@ -38,12 +38,24 @@ body {
   font-weight: bold;
 }
 
+.article {
+  margin-bottom: 10px;
+}
+
+.aside {
+  margin-bottom: 2px;
+}
+
 .sidebar {
   width: 25%;
 }
 
+.mark {
+  margin-bottom: 20px;
+}
+
 .footer {
-  background-color: #f8f9fa;
+  background-color: whitesmoke;
   padding: 20px;
   text-align: center;
 }
